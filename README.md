@@ -26,9 +26,6 @@ to build from and build more functions & ideas on top of it, e.g:
 - RAII
 - Abstractions
 - OOP
-- Thinking as a programmer
-- solving problems
-- improve my code
 - ...
 
 ---
